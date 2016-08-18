@@ -1,0 +1,18 @@
+{
+  "name": "node-exercise",
+  "version": "0.0.1",
+  "description": "Node exercise",
+  "main": "app.js",
+  "author": {
+    "name": "Nishanth Kabra",
+    "email": "nishantkabra14@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "q": "^1.4.1",
+    "request": "^2.74.0"
+  }
+}
